@@ -113,7 +113,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Illinois Urbana-Champaign",
-      logo: require("./assets/images/IlliniLogo_cropped.jpg"), // replace with an Illinois logo image when you add one
+      logo: require("./assets/images/uiuc-logo.png"), // replace with an Illinois logo image when you add one
       subHeader: "Bachelor of Science in Electrical Engineering",
       duration: "August 2024 - May 2027 (expected)",
       desc: "GPA: 3.84/4.00",
