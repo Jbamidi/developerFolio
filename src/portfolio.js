@@ -313,7 +313,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Interested in hardware, embedded systems, or CPU/SoC projects? My inbox is open.",
+    "Interested in hardware, embedded systems, or CPU/SoC projects. My inbox is open.",
   number: "805-268-4693",
   email_address: "jassubamidi24@gmail.com"
 };
@@ -347,3 +347,5 @@ export {
   isHireable,
   resumeSection
 };
+  
+  
